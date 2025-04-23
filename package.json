@@ -1,6 +1,6 @@
 {
   "name": "ppagent",
-  "version": "0.0.36",
+  "version": "0.0.37",
   "description": "PPAgent是一个用于连接大模型和消息客户端的中间件，可以用来实现如钉钉、飞书、微信等平台对接大模型、智能体的功能。",
   "types": "dist/lib.d.ts",
   "main": "dist/lib.js",
